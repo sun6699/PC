@@ -72,3 +72,4 @@ E:\项目\Code\kaifa\Web\bin\DotNet.xml
 E:\项目\Code\kaifa\Web\bin\Newtonsoft.Json.xml
 E:\项目\Code\kaifa\Web\obj\Debug\TcV3.Web.dll
 E:\项目\Code\kaifa\Web\obj\Debug\TcV3.Web.pdb
+E:\项目\Code\kaifa\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
