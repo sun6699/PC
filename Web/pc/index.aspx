@@ -12,6 +12,7 @@
 <link rel="stylesheet" href="assets/css/style.css"  type="text/css" media="all" />
 <!--[if lt IE 9]><script type="text/javascript" src="assets/js/html5.js"></script><![endif]-->
 </head>
+<style></style>
 <body id="ruifoxHome">
 <header>
 	<div id="navbg"></div>
