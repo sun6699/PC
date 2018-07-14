@@ -1,0 +1,8 @@
+D:\Code\T80\T80301\Code\Core\bin\Release\TcV3.Core.dll
+D:\Code\T80\T80301\Code\Core\bin\Release\TcV3.Core.pdb
+D:\Code\T80\T80301\Code\Core\bin\Release\CYQ.Data.dll
+D:\Code\T80\T80301\Code\Core\bin\Release\DotNet.dll
+D:\Code\T80\T80301\Code\Core\bin\Release\CYQ.Data.xml
+D:\Code\T80\T80301\Code\Core\bin\Release\DotNet.xml
+D:\Code\T80\T80301\Code\Core\obj\Release\TcV3.Core.dll
+D:\Code\T80\T80301\Code\Core\obj\Release\TcV3.Core.pdb

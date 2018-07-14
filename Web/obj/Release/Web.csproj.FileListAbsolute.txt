@@ -1,0 +1,15 @@
+D:\Code\T80\T80301\Code\Web\bin\TcV3.Web.dll.config
+D:\Code\T80\T80301\Code\Web\bin\TcV3.Web.dll
+D:\Code\T80\T80301\Code\Web\bin\TcV3.Web.pdb
+D:\Code\T80\T80301\Code\Web\bin\AspNetPager.dll
+D:\Code\T80\T80301\Code\Web\bin\CYQ.Data.dll
+D:\Code\T80\T80301\Code\Web\bin\DotNet.dll
+D:\Code\T80\T80301\Code\Web\bin\Newtonsoft.Json.dll
+D:\Code\T80\T80301\Code\Web\bin\TcV3.Core.dll
+D:\Code\T80\T80301\Code\Web\bin\TcV3.Core.pdb
+D:\Code\T80\T80301\Code\Web\bin\CYQ.Data.xml
+D:\Code\T80\T80301\Code\Web\bin\DotNet.xml
+D:\Code\T80\T80301\Code\Web\bin\Newtonsoft.Json.xml
+D:\Code\T80\T80301\Code\Web\obj\Release\Web.csprojResolveAssemblyReference.cache
+D:\Code\T80\T80301\Code\Web\obj\Release\TcV3.Web.dll
+D:\Code\T80\T80301\Code\Web\obj\Release\TcV3.Web.pdb

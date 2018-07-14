@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="tupianmd.aspx.cs" Inherits="Tc.WebAdmin.root.handler.tupianmd" %>

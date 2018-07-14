@@ -1,0 +1,125 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Text;
+
+namespace Tc.Model
+{
+    //TcLiuyan
+    public partial class TcLiuyan : CYQ.Data.Orm.OrmBase
+    {
+        public TcLiuyan()
+        {
+            base.SetInit(this, "TcLiuyan", "Conn");
+
+            _id = 0;
+            _xingming = "";
+            _qq = "";
+            _gongsimc = "";
+            _email = "";
+            _dianhua = "";
+            _dizhi = "";
+            _neirong = "";
+            _rukusj = new DateTime(1900, 1, 1);
+        }
+
+        /// <summary>
+        /// ID
+        /// </summary>
+        private int _id;
+
+        public int ID
+        {
+            get { return _id; }
+            set { _id = value; }
+        }
+
+        /// <summary>
+        /// Xingming
+        /// </summary>
+        private string _xingming;
+
+        public string Xingming
+        {
+            get { return _xingming; }
+            set { _xingming = value; }
+        }
+
+        /// <summary>
+        /// QQ
+        /// </summary>
+        private string _qq;
+
+        public string QQ
+        {
+            get { return _qq; }
+            set { _qq = value; }
+        }
+
+        /// <summary>
+        /// GongsiMc
+        /// </summary>
+        private string _gongsimc;
+
+        public string GongsiMc
+        {
+            get { return _gongsimc; }
+            set { _gongsimc = value; }
+        }
+
+        /// <summary>
+        /// Email
+        /// </summary>
+        private string _email;
+
+        public string Email
+        {
+            get { return _email; }
+            set { _email = value; }
+        }
+
+        /// <summary>
+        /// Dianhua
+        /// </summary>
+        private string _dianhua;
+
+        public string Dianhua
+        {
+            get { return _dianhua; }
+            set { _dianhua = value; }
+        }
+
+        /// <summary>
+        /// Dizhi
+        /// </summary>
+        private string _dizhi;
+
+        public string Dizhi
+        {
+            get { return _dizhi; }
+            set { _dizhi = value; }
+        }
+
+        /// <summary>
+        /// Neirong
+        /// </summary>
+        private string _neirong;
+
+        public string Neirong
+        {
+            get { return _neirong; }
+            set { _neirong = value; }
+        }
+
+        /// <summary>
+        /// RukuSj
+        /// </summary>
+        private DateTime _rukusj;
+
+        public DateTime RukuSj
+        {
+            get { return _rukusj; }
+            set { _rukusj = value; }
+        }
+    }
+}

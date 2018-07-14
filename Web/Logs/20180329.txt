@@ -1,0 +1,121 @@
+http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:51 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:51 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:52 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:52 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:52 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:53 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:53 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:09:53 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:06 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:07 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:07 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:08 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:08 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:09 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:09 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:10 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:10 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:27 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:28 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:29 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:29 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:29 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:29 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by  paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>http://localhost:10011/index.aspx
+------------------------
+V5.7.5.5 Record On : 2018/3/29 10:10:50 http://localhost:10011/index.aspx
+------------------------
+
+[LogConnIsEmpty]:Access Call Function::ExeDataReader():至少一个参数没有被指定值。<br>Access.51aspx.SQL: <br>select top 20 * from [TcArticle] where types='banner' order by paixu<br>ExeDataReader():至少一个参数没有被指定值。<br>
