@@ -38,7 +38,6 @@
             background-image: url(../../templets/demo/css/bg.jpg);
         }
     </style>
-	<script></script>
 </head>
 <body>
     <uc1:top runat="server" ID="top" />
