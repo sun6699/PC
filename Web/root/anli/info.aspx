@@ -135,8 +135,8 @@
 
     <script src="/assets/js/plugins/validate/jquery.validate.min.js"></script>
     <script src="/assets/js/plugins/validate/messages_zh.min.js"></script>
-    <script src="../js/uploadfy/jquery.uploadify.min2.js"></script>
-    <link href="../js/uploadfy/uploadify.css" rel="stylesheet" />
+    <script src="../assets/js/uploadfy/jquery.uploadify.min2.js"></script>
+    <link href="../assets/js/uploadfy/uploadify.css" rel="stylesheet" />
     <script src="../handler/tupian.js"></script>
     <script type="text/javascript">
         window.UEDITOR_HOME_URL = '<%= ResolveUrl("~/assets/js/ueditor1_4_3/") %>';

@@ -33,3 +33,12 @@ C:\Users\15958\Desktop\Code\Code\Core\bin\Debug\DotNet.xml
 C:\Users\15958\Desktop\Code\Code\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
 C:\Users\15958\Desktop\Code\Code\Core\obj\Debug\TcV3.Core.dll
 C:\Users\15958\Desktop\Code\Code\Core\obj\Debug\TcV3.Core.pdb
+E:\项目\Code\kaifa\Core\bin\Debug\TcV3.Core.dll
+E:\项目\Code\kaifa\Core\bin\Debug\TcV3.Core.pdb
+E:\项目\Code\kaifa\Core\bin\Debug\CYQ.Data.dll
+E:\项目\Code\kaifa\Core\bin\Debug\DotNet.dll
+E:\项目\Code\kaifa\Core\bin\Debug\CYQ.Data.xml
+E:\项目\Code\kaifa\Core\bin\Debug\DotNet.xml
+E:\项目\Code\kaifa\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\项目\Code\kaifa\Core\obj\Debug\TcV3.Core.dll
+E:\项目\Code\kaifa\Core\obj\Debug\TcV3.Core.pdb
