@@ -78,6 +78,7 @@
     <Content Include="control\left.ascx" />
     <Content Include="control\top.ascx" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
     <Content Include="pc\about\index.aspx" />
     <Content Include="pc\assets\css\images\bg_loading_anim.gif" />
     <Content Include="pc\assets\css\images\drag_banner_arrow.gif.png" />
@@ -690,6 +691,7 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="assets\" />
     <Folder Include="m\" />
     <Folder Include="pc\assets\uploads\" />
     <Folder Include="upload\" />

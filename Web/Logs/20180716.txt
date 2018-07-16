@@ -1,0 +1,23 @@
+http://upliusun.vicp.io:6200/root/
+------------------------
+V5.7.5.5 Record On : 2018/7/16 13:50:08 http://upliusun.vicp.io:6200/root/
+------------------------
+
+[Exception]:V5.7.5.5 未在本地计算机上注册“Microsoft.Jet.OLEDB.4.0”提供程序。:
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Tool.DBTool.GetColumns(String tableName, String conn, String& errInfo)
+   在 CYQ.Data.Orm.SimpleOrmBase.SetDelayInit(Object entityInstance, String tableName, String conn, AopOp op)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Tool.DBTool.GetColumns(String tableName, String conn, String& errInfo)
+   在 CYQ.Data.Orm.SimpleOrmBase.SetDelayInit(Object entityInstance, String tableName, String conn, AopOp op)http://192.168.0.131:6200/root/main.aspx
+------------------------
+V5.7.5.5 Record On : 2018/7/16 13:54:27 http://192.168.0.131:6200/root/main.aspx
+------------------------
+
+[Exception]:V5.7.5.5 未在本地计算机上注册“Microsoft.Jet.OLEDB.4.0”提供程序。:
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Tool.DBTool.GetColumns(String tableName, String conn, String& errInfo)
+   在 CYQ.Data.Orm.SimpleOrmBase.SetDelayInit(Object entityInstance, String tableName, String conn, AopOp op)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Tool.DBTool.GetColumns(String tableName, String conn, String& errInfo)
+   在 CYQ.Data.Orm.SimpleOrmBase.SetDelayInit(Object entityInstance, String tableName, String conn, AopOp op)
