@@ -41,5 +41,18 @@ namespace Tc.Web.api
             string json = Tc.Core.Common.ProPublic.ToJson(dt);
             return json;
         }
+
+        [WebMethod]
+        public static string Login(string name, string pwd, string code)
+        {
+            DataTable dt = new DataTable().AddColumn("Name").AddColumn("Pwd").AddColumn("Code");
+            DataRow dr = dt.NewRow();
+            dr["Name"] = name;
+            dr["Pwd"] = pwd;
+            dr["Code"] = code;
+            dt.Rows.Add(dr);
+            string json = Tc.Core.Common.ProPublic.ToJson(dt);
+            return json;
+        }
     }
 }
