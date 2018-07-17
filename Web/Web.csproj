@@ -54,9 +54,6 @@
       <HintPath>..\DLL\DotNet.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\DLL\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -73,6 +70,8 @@
     <Reference Include="System.Web.Services" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="api\testwx.aspx" />
+    <Content Include="api\textapp.aspx" />
     <Content Include="App_Data\dbv3.mdb" />
     <Content Include="control\bot.ascx" />
     <Content Include="control\left.ascx" />
@@ -193,6 +192,20 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="api\testwx.aspx.cs">
+      <DependentUpon>testwx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="api\testwx.aspx.designer.cs">
+      <DependentUpon>testwx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="api\textapp.aspx.cs">
+      <DependentUpon>textapp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="api\textapp.aspx.designer.cs">
+      <DependentUpon>textapp.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

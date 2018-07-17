@@ -79,12 +79,13 @@ D:\项目\PC\kaifa\Web\bin\TcV3.Web.pdb
 D:\项目\PC\kaifa\Web\bin\AspNetPager.dll
 D:\项目\PC\kaifa\Web\bin\CYQ.Data.dll
 D:\项目\PC\kaifa\Web\bin\DotNet.dll
-D:\项目\PC\kaifa\Web\bin\Newtonsoft.Json.dll
 D:\项目\PC\kaifa\Web\bin\TcV3.Core.dll
 D:\项目\PC\kaifa\Web\bin\TcV3.Core.pdb
 D:\项目\PC\kaifa\Web\bin\CYQ.Data.xml
 D:\项目\PC\kaifa\Web\bin\DotNet.xml
-D:\项目\PC\kaifa\Web\bin\Newtonsoft.Json.xml
 D:\项目\PC\kaifa\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 D:\项目\PC\kaifa\Web\obj\Debug\TcV3.Web.dll
 D:\项目\PC\kaifa\Web\obj\Debug\TcV3.Web.pdb
+D:\项目\PC\kaifa\Web\bin\NPOI.dll
+D:\项目\PC\kaifa\Web\bin\ICSharpCode.SharpZipLib.dll
+D:\项目\PC\kaifa\Web\bin\NPOI.xml
