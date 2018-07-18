@@ -43,14 +43,22 @@ namespace Tc.Web.api
         }
 
         [WebMethod]
-        public static string Login(string name, string pwd, string code)
+        public static string Login(string code)
         {
-            DataTable dt = new DataTable().AddColumn("Name").AddColumn("Pwd").AddColumn("Code");
+            DataTable dt = new DataTable().AddColumn("struts").AddColumn("code");
             DataRow dr = dt.NewRow();
-            dr["Name"] = name;
-            dr["Pwd"] = pwd;
-            dr["Code"] = code;
-            dt.Rows.Add(dr);
+            if (!code.IsNullOrEmpty())
+            {
+                dr["struts"] = "99";
+                dr["code"] = "登录成功";
+                dt.Rows.Add(dr);
+            }
+            else
+            {
+                dr["struts"] = "0";
+                dr["code"] = "登录失败";
+                dt.Rows.Add(dr);
+            }
             string json = Tc.Core.Common.ProPublic.ToJson(dt);
             return json;
         }

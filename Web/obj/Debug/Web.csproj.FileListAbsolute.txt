@@ -105,3 +105,11 @@ D:\项目\PC\Web\bin\NPOI.xml
 D:\项目\PC\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 D:\项目\PC\Web\obj\Debug\TcV3.Web.dll
 D:\项目\PC\Web\obj\Debug\TcV3.Web.pdb
+D:\项目\PC\Web\bin\Senparc.CO2NET.dll
+D:\项目\PC\Web\bin\Senparc.Weixin.dll
+D:\项目\PC\Web\bin\Senparc.Weixin.MP.dll
+D:\项目\PC\Web\bin\Senparc.Weixin.WxOpen.dll
+D:\项目\PC\Web\bin\Senparc.CO2NET.xml
+D:\项目\PC\Web\bin\Senparc.Weixin.xml
+D:\项目\PC\Web\bin\Senparc.Weixin.MP.xml
+D:\项目\PC\Web\bin\Senparc.Weixin.WxOpen.xml
