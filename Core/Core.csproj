@@ -74,8 +74,10 @@
     <Compile Include="Common\ModelHandler.cs" />
     <Compile Include="Common\NPOI.cs" />
     <Compile Include="Common\ProPublic.cs" />
+    <Compile Include="_Code\Model\TcAccount.cs" />
     <Compile Include="_Code\Model\TcAdmin.cs" />
     <Compile Include="_Code\Model\TcArticle.cs" />
+    <Compile Include="_Code\Model\TcBill.cs" />
     <Compile Include="_Code\Model\TcConfig.cs" />
     <Compile Include="_Code\Model\TcFenlei.cs" />
     <Compile Include="_Code\Model\TcKuozhan.cs" />

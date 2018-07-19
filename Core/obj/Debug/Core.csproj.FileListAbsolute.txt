@@ -68,6 +68,5 @@ D:\项目\PC\Core\bin\Debug\NPOI.OpenXmlFormats.dll
 D:\项目\PC\Core\bin\Debug\CYQ.Data.xml
 D:\项目\PC\Core\bin\Debug\DotNet.xml
 D:\项目\PC\Core\bin\Debug\NPOI.xml
-D:\项目\PC\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
 D:\项目\PC\Core\obj\Debug\TcV3.Core.dll
 D:\项目\PC\Core\obj\Debug\TcV3.Core.pdb

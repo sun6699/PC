@@ -95,6 +95,49 @@
     <Content Include="control\top.ascx" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="m\account\account.aspx" />
+    <Content Include="m\account\enter.aspx" />
+    <Content Include="m\account\accinfo.aspx" />
+    <Content Include="m\account\enterinfo.aspx" />
+    <Content Include="m\account\outinfo.aspx" />
+    <Content Include="m\account\outs.aspx" />
+    <Content Include="m\account\personal.aspx" />
+    <Content Include="m\assets\css\api.css" />
+    <Content Include="m\assets\css\aui-flex.css" />
+    <Content Include="m\assets\css\aui-pull-refresh.css" />
+    <Content Include="m\assets\css\aui-skin-night.css" />
+    <Content Include="m\assets\css\aui-skin.css" />
+    <Content Include="m\assets\css\aui-slide.css" />
+    <Content Include="m\assets\css\aui.css" />
+    <Content Include="m\assets\image\baobiao.png" />
+    <Content Include="m\assets\image\poster.jpg" />
+    <Content Include="m\assets\layer\layer.js" />
+    <Content Include="m\assets\layer\mobile\layer.js" />
+    <Content Include="m\assets\layer\mobile\need\layer.css" />
+    <Content Include="m\assets\layer\theme\default\icon-ext.png" />
+    <Content Include="m\assets\layer\theme\default\icon.png" />
+    <Content Include="m\assets\layer\theme\default\layer.css" />
+    <Content Include="m\assets\layer\theme\default\loading-0.gif" />
+    <Content Include="m\assets\layer\theme\default\loading-1.gif" />
+    <Content Include="m\assets\layer\theme\default\loading-2.gif" />
+    <Content Include="m\assets\script\api.js" />
+    <Content Include="m\assets\script\aui-actionsheet.js" />
+    <Content Include="m\assets\script\aui-collapse.js" />
+    <Content Include="m\assets\script\aui-dialog.js" />
+    <Content Include="m\assets\script\aui-lazyload.js" />
+    <Content Include="m\assets\script\aui-list-swipe-backup.js" />
+    <Content Include="m\assets\script\aui-list-swipe.js" />
+    <Content Include="m\assets\script\aui-popup-new.js" />
+    <Content Include="m\assets\script\aui-popup.js" />
+    <Content Include="m\assets\script\aui-pull-refresh.js" />
+    <Content Include="m\assets\script\aui-range.js" />
+    <Content Include="m\assets\script\aui-scroll.js" />
+    <Content Include="m\assets\script\aui-sharebox.js" />
+    <Content Include="m\assets\script\aui-skin.js" />
+    <Content Include="m\assets\script\aui-slide.js" />
+    <Content Include="m\assets\script\aui-tab.js" />
+    <Content Include="m\assets\script\aui-toast.js" />
+    <Content Include="m\assets\script\echarts.js" />
     <Content Include="pc\about\index.aspx" />
     <Content Include="pc\assets\css\images\bg_loading_anim.gif" />
     <Content Include="pc\assets\css\images\drag_banner_arrow.gif.png" />
@@ -225,6 +268,55 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="m\account\account.aspx.cs">
+      <DependentUpon>account.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="m\account\account.aspx.designer.cs">
+      <DependentUpon>account.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="m\account\enter.aspx.cs">
+      <DependentUpon>enter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="m\account\enter.aspx.designer.cs">
+      <DependentUpon>enter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="m\account\accinfo.aspx.cs">
+      <DependentUpon>accinfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="m\account\accinfo.aspx.designer.cs">
+      <DependentUpon>accinfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="m\account\enterinfo.aspx.cs">
+      <DependentUpon>enterinfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="m\account\enterinfo.aspx.designer.cs">
+      <DependentUpon>enterinfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="m\account\outinfo.aspx.cs">
+      <DependentUpon>outinfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="m\account\outinfo.aspx.designer.cs">
+      <DependentUpon>outinfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="m\account\outs.aspx.cs">
+      <DependentUpon>outs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="m\account\outs.aspx.designer.cs">
+      <DependentUpon>outs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="m\account\personal.aspx.cs">
+      <DependentUpon>personal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="m\account\personal.aspx.designer.cs">
+      <DependentUpon>personal.aspx</DependentUpon>
     </Compile>
     <Compile Include="pc\about\index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
@@ -703,6 +795,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="m\assets\css\aui-iconfont.ttf" />
     <None Include="Properties\PublishProfiles\fb.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -722,7 +815,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="assets\" />
-    <Folder Include="m\" />
     <Folder Include="pc\assets\uploads\" />
     <Folder Include="upload\" />
   </ItemGroup>
